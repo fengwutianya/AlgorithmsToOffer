@@ -1,3 +1,5 @@
+import binarytree.TreeLinkNode;
+
 /**
  * Created by xuan on 2017/3/28 0028.
  */
